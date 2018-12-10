@@ -6,7 +6,7 @@ namespace Libra.IAAS
     {
         public string Hello()
         {
-            return "Hello";
+            return "HelloWorld";
         }
     }
 }

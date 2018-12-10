@@ -13,7 +13,7 @@ namespace Libra.IAAS.Test
         {
             var result = new Task().Hello();
 
-            Assert.Equal("Hello", result);
+            Assert.Equal("HelloWorld", result);
         }
     }
 }
